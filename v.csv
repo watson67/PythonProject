@@ -1,0 +1,5 @@
+movie_title;director_name;num_critic_for_reviews;duration;actor_1_name;actor_2_name;num_voted_users;facenumber_in_poster;num_user_for_reviews;language;country;content_rating;budget;title_year;imdb_score;genres;plot_keywords
+The Shawshank Redemption;Frank Darabont;199;142;Morgan Freeman;Jeffrey DeMunn;1689764;0;4144;English;USA;R;25000000;1994;9.3;Crime|Drama;escape from prison|first person narration|prison|prison cell search|wrongful imprisonment|thief
+The Dark Knight;Christopher Nolan;645;152;Christian Bale;Heath Ledger;1676169;0;4667;English;USA;PG-13;185000000;2008;9.0;Action|Crime|Drama|Thriller;based on comic book|dc comics|psychopath|star died before release|urban setting
+Inception;Christopher Nolan;642;148;Leonardo DiCaprio;Tom Hardy;1468200;0;2803;English;USA;PG-13;160000000;2010;8.8;Action|Adventure|Sci-Fi|Thriller;ambiguous ending|corporate espionage|dream|subconscious|thief
+
